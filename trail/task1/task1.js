@@ -16,11 +16,11 @@ mul(3.14,10,10)
 
 // task4
 
-// function mul(l,w){
-//     let areaofrectangle = l*w
-//     console.log(areaofrectangle)
-// }
-// mul(10,10)
+function mul(l,w){
+    let areaofrectangle = l*w
+    console.log(areaofrectangle)
+}
+mul(10,10)
 
 // task5
 
