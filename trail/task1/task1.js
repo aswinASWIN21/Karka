@@ -7,12 +7,12 @@ console.log(c)
 
 // task3
 
-// function mul(pi,r,r){
-//     let areaofcircle = pi*r*r
-//     console.log(areaofcircle)
+function mul(pi,r,r){
+    let areaofcircle = pi*r*r
+    console.log(areaofcircle)
 
-// }
-// mul(3.14,10,10)
+}
+mul(3.14,10,10)
 
 // task4
 
